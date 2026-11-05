@@ -1,5 +1,7 @@
 # AI Marketing Factory
+Created by: Qadeer Raufi
 
+My factory mission: My AI Marketing Factory will help me create consistent, data-driven marketing content and campaigns using AI tools and standardized marketing workflows.
 A repeatable marketing operating system you can point at any client. Shared context goes in, standardized stations turn it into assets, a human approves the work, and the results make the next cycle better.
 
 **The process is the asset. Tools plug into slots.**
